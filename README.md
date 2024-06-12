@@ -3,17 +3,17 @@
 <p>
   <a href="https://github.com/enrtorgil">
     <img alt="GitHub Followers" src="https://img.shields.io/github/followers/enrtorgil?style=for-the-badge&logo=github&color=181717">
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/enriquetorrellagil">
     <img alt="LinkedIn" src="https://img.shields.io/static/v1?label=LinkedIn&message=enriquetorrellagil&style=for-the-badge&logo=linkedin&color=0077B5">
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=enrtorgil&color=006bed" alt="Profile Views">
 </p>
 
 I am a junior software developer 🖥, passionate about learning new technologies and engaging in innovative web projects 🌟.
 
 <div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1;">
+  <div style="flex: 1; text-align: center;">
     <h3>🛠 Tools & Technologies</h3>
     <p>
       <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
