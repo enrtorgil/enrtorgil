@@ -1,4 +1,4 @@
-## 👋 Hi there! My name is [Enrique](https://github.com/enrtorgil)
+## 👋 Hi there! My name is [Enrique](https://github.com/enrtorgil)&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=enrtorgil&color=006bed" alt="Profile Views">
 
 <p>
   <a href="https://github.com/enrtorgil">
@@ -6,10 +6,7 @@
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/enriquetorrellagil">
     <img alt="LinkedIn" src="https://img.shields.io/static/v1?label=LinkedIn&message=enriquetorrellagil&style=for-the-badge&logo=linkedin&color=0077B5">
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="margin-left: auto;">
-    <img src="https://komarev.com/ghpvc/?username=enrtorgil&color=006bed" alt="Profile Views">
-  </span>
+  </a>
 </p>
 
 <p>I am a junior software developer 🖥, passionate about learning new technologies and engaging in innovative 🌟 web projects.</p> 
