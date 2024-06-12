@@ -14,5 +14,5 @@
 I am a junior software developer 🖥, passionate about learning new technologies and engaging in innovative web projects 🌟.
 
 ### ✨ I'm currently working on...
-[![PawFinder](https://github-readme-stats-bezhansalleh.vercel.app/api/pin/?username=enrtorgil&repo=pawFinder)](https://github.com/enrtorgil/pawFinder)
-[![README.md](https://github-readme-stats-bezhansalleh.vercel.app/api/pin/?username=enrtorgil&repo=enrtorgil)](https://github.com/enrtorgil/enrtorgil)
+[![PawFinder](https://github-readme-stats-bezhansalleh.vercel.app/api/pin/?username=enrtorgil&repo=pawFinder&cache_bust=1)](https://github.com/enrtorgil/pawFinder)
+[![README.md](https://github-readme-stats-bezhansalleh.vercel.app/api/pin/?username=enrtorgil&repo=enrtorgil&cache_bust=1)](https://github.com/enrtorgil/enrtorgil)
