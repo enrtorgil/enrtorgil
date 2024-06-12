@@ -1,4 +1,4 @@
-## 👋 Hi there! My name is [Enrique Torrella Gil (Kike)](https://github.com/enrtorgil)
+## 👋 Hi there! My name is [Kike](https://github.com/enrtorgil)
 
 <p>
   <a href="https://github.com/enrtorgil">
