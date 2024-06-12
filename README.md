@@ -10,7 +10,8 @@
   <img src="https://komarev.com/ghpvc/?username=enrtorgil&color=006bed" alt="Profile Views">
 </p>
 
-I am a junior software developer 🖥, passionate about learning new technologies and engaging in innovative web projects 🌟. 🚀 I am committed to continuous development and adapting to technological advancements to deliver high-quality products. My goal is to continue growing professionally in the field of software development and actively contribute to the community.
+I am a junior software developer 🖥, passionate about learning new technologies and engaging in innovative web projects 🌟. 
+My goal 🎯 is to continue growing professionally in the field of software development and actively contribute to the community 🚀.
 
 ### ✨ I'm currently working on...
 
