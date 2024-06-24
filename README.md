@@ -1,5 +1,10 @@
 ## 👋 Hi there! My name is [Enrique](https://github.com/enrtorgil)
 
+<div align="center">
+  <img src="https://media.giphy.com/media/tHgcwSqhvf6e4K35Le/giphy.gif" alt="readme-banner-gif" style="width: 100%; height: auto;" />
+  <br>
+</div>
+
 <p>
   <a href="https://github.com/enrtorgil">
     <img alt="GitHub Followers" src="https://img.shields.io/github/followers/enrtorgil?style=for-the-badge&logo=github&color=181717">
@@ -9,10 +14,6 @@
 </a>&nbsp;&nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=enrtorgil&color=006bed" alt="Profile Views">
 </p>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/tHgcwSqhvf6e4K35Le/giphy.gif" alt="readme-banner-gif" style="max-width: 100%; height: auto;" />
-</div>
 
 <p>I am a junior software developer 🖥, passionate about learning new technologies and engaging in innovative 🌟 web projects.</p> 
 <p>My goal 🎯 is to continue growing professionally in the field of software development and actively 🚀 contribute to the community.</p>
