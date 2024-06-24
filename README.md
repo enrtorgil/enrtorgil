@@ -21,15 +21,19 @@
 
 ### ✨ I'm currently working on...
 
-<table style="border: none;">
-  <tr style="border: none;">
-    <td style="border: none;">
-      <a href="https://github.com/enrtorgil"><img alt="Git Stats" src="http://github-readme-stats-bezhansalleh.vercel.app/api?username=enrtorgil&show_icons=true&count_private=true" height="150" /></a>
-    </td>
-    <td style="border: none;">
+<table>
+<tr>
+    <th>Focused on 🔜</th>
+    <th>GitHub Stats 👁‍🗨</th>
+  </tr>
+  <tr>
+    <td>
       <a href="https://github.com/enrtorgil/pawFinder">
         <img alt="PawFinder" src="https://github-readme-stats-bezhansalleh.vercel.app/api/pin/?username=enrtorgil&repo=pawFinder&cache_bust=1" />
       </a>
+    </td>
+    <td>
+      <a href="https://github.com/enrtorgil"><img alt="Git Stats" src="http://github-readme-stats-bezhansalleh.vercel.app/api?username=enrtorgil&show_icons=true&count_private=true" height="150" /></a>
     </td>
   </tr>
 </table>
