@@ -21,6 +21,8 @@
 
 ### ✨ I'm currently working on...
 
+<br>
+
 <table>
 <tr>
     <th>Focused on 🔜</th>
