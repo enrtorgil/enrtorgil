@@ -1,8 +1,6 @@
 ## 👋 Hi there! My name is [Enrique](https://github.com/enrtorgil) 
 ###### (*you can also call me Kike, K or Keeiko*)
 
-<hr>
-
 <p>
   <a href="https://github.com/enrtorgil">
     <img alt="GitHub Followers" src="https://img.shields.io/github/followers/enrtorgil?style=for-the-badge&logo=github&color=181717">
