@@ -11,11 +11,10 @@
 </p>
 
 <div align="center">
-  <img src="https://i.imgur.com/qxho8Ab.gif" alt="readme-banner-gif" style="width: 100%; height: auto;" />
-  <br>
+  <img src="https://i.imgur.com/jtBGTEw.gif" alt="readme-banner-gif" style="width: 100%; height: auto;">
 </div>
 
-<hr>
+<br>
 
 <p>I am a junior software developer 🖥, passionate about learning new technologies and engaging in innovative 🌟 web projects.</p> 
 <p>My goal 🎯 is to continue growing professionally in the field of software development and actively 🚀 contribute to the community.</p>
