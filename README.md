@@ -1,5 +1,7 @@
 ## 👋 Hi there! My name is [Enrique](https://github.com/enrtorgil)
 
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/tHgcwSqhvf6e4K35Le" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" alt="readme-banner-gif" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/tHgcwSqhvf6e4K35Le"></a></p>
+
 <p>
   <a href="https://github.com/enrtorgil">
     <img alt="GitHub Followers" src="https://img.shields.io/github/followers/enrtorgil?style=for-the-badge&logo=github&color=181717">
