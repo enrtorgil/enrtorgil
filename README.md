@@ -1,5 +1,4 @@
-## 👋 Hi there! My name is [Enrique](https://github.com/enrtorgil) 
-###### (*you can also call me Kike, K or Keeiko*)
+## 👋 Hi there! My name is [Enrique](https://github.com/enrtorgil)
 
 <p>
   <a href="https://github.com/enrtorgil">
