@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-  <img src="https://i.imgur.com/jtBGTEw.gif" alt="readme-banner-gif" style="width: 100%; height: auto; border-radius: 15px;">
+  <img src="https://i.imgur.com/jtBGTEw.gif" alt="readme-banner-gif" style="width: 100%; height: auto;">
 </div>
 
 <hr>
