@@ -1,4 +1,4 @@
-## 👋 Hi there! My name is [Enrique](https://github.com/enrtorgil)
+## 👋 Hi there! My name is [Enrique](https://github.com/enrtorgil) <span style="font-size: 0.8em; font-style: italic;">(you can also call me Kike)</span>
 
 <p>
   <a href="https://github.com/enrtorgil">
