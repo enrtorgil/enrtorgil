@@ -16,7 +16,6 @@
 
 <hr>
 
-<p>I am a junior software developer 🖥, passionate about learning new technologies and engaging in innovative 🌟 web projects.</p> 
 <p>My goal 🎯 is to continue growing professionally in the field of software development and actively 🚀 contribute to the community.</p>
 
 ### ✨ I'm currently working on...
