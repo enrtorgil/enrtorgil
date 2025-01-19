@@ -18,7 +18,7 @@
 
 <p>My goal 🎯 is to continue growing professionally in the field of software development and actively 🚀 contribute to the community.</p>
 
-### ✨ I'm currently working on...
+### ✨ I'm currently working on... (GitLab 😏)
 
 <table>
 <tr>
