@@ -18,7 +18,7 @@
 
 <p>My goal 🎯 is to continue growing professionally in the field of software development and actively 🚀 contribute to the community.</p>
 
-### ✨ I'm currently working on... (GitLab 😏)
+### ✨ I'm currently working on... [Filament Starter](https://github.com/enrtorgil/filament-starter)
 
 <table>
 <tr>
@@ -27,8 +27,8 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/enrtorgil/pawFinder">
-        <img alt="PawFinder" src="https://github-readme-stats-bezhansalleh.vercel.app/api/pin/?username=enrtorgil&repo=pawFinder&cache_bust=1" />
+      <a href="https://github.com/enrtorgil/filament-starter">
+        <img alt="Filament Starter" src="https://github-readme-stats-bezhansalleh.vercel.app/api/pin/?username=enrtorgil&repo=filament-starter&cache_bust=1" />
       </a>
     </td>
     <td>
