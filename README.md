@@ -22,13 +22,13 @@
 
 <table>
 <tr>
-    <th>Focused on 🔜</th>
+    <th>Past works 🔄</th>
     <th>GitHub Stats 👁‍🗨</th>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/enrtorgil/filament-starter">
-        <img alt="Filament Starter" src="https://github-readme-stats-bezhansalleh.vercel.app/api/pin/?username=enrtorgil&repo=filament-starter&cache_bust=1" />
+      <a href="https://github.com/enrtorgil/pawFinder">
+        <img alt="PawFinder" src="https://github-readme-stats-bezhansalleh.vercel.app/api/pin/?username=enrtorgil&repo=pawFinder&cache_bust=1" />
       </a>
     </td>
     <td>
