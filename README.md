@@ -18,7 +18,7 @@
 
 <p>My goal 🎯 is to continue growing professionally in the field of software development and actively 🚀 contribute to the community.</p>
 
-### ✨ I'm currently working on... [Filament Starter](https://github.com/enrtorgil/filament-starter) (private repository)
+### ✨ I'm currently working on... [Project & Task Management](https://github.com/enrtorgil/taskflow)
 
 <table>
 <tr>
