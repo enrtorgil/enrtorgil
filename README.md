@@ -55,6 +55,6 @@
 <br>
 
 <div align="right">
-  Made with <span style="color:#70A5FD;">💙</span> by <a href="https://github.com/enrtorgil">@enrtorgil</a>.
+  Made with <span style="color:#70A5FD;">💙</span> by <a href="https://github.com/enrtorgil">@enrtorgil</a>
 </div>
 
