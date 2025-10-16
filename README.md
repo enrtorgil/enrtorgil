@@ -3,6 +3,7 @@
 <div align="center">
   <img src="https://i.imgur.com/jtBGTEw.gif" alt="readme-banner-gif" style="width: 100%; height: auto;">
 </div>
+
 ### ✨ I'm currently working on... [Project & Task Management](https://github.com/enrtorgil/taskflow)
 
 <table>
