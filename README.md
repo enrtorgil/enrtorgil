@@ -3,7 +3,6 @@
 <div align="center">
   <img src="https://i.imgur.com/jtBGTEw.gif" alt="readme-banner-gif" style="width: 100%; height: auto;">
 </div>
-
 ### ✨ I'm currently working on... [Project & Task Management](https://github.com/enrtorgil/taskflow)
 
 <table>
@@ -51,6 +50,8 @@
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">&nbsp;
   </p>
 </div>
+
+---
 
 <p align="center">
   <a href="https://github.com/enrtorgil">
