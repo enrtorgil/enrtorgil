@@ -1,4 +1,4 @@
-## 👋 Hi there! My name is [Enrique](https://github.com/enrtorgil)
+## 👋 Hello world! My name is [Enrique](https://github.com/enrtorgil)
 
 <p>
   <a href="https://github.com/enrtorgil">
@@ -54,3 +54,26 @@
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">&nbsp;
   </p>
 </div>
+
+<details align="center">
+  <summary></summary><br>
+
+  <p align="center">
+    <a href="https://github.com/enrtorgil">
+      <img src="https://github-readme-stats.vercel.app/api?username=enrtorgil&show_icons=true&theme=tokyonight&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enrtorgil&layout=compact&langs_count=10&theme=tokyonight&custom_title=Top%20Languages" alt="Top Languages" />
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/enrtorgil">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enrtorgil&theme=tokyonight" alt="Profile Details"/>
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/enrtorgil">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=enrtorgil&radius=16&theme=tokyo-night&area=true" alt="Activity Graph"/>
+    </a>
+  </p>
+</details>
