@@ -52,14 +52,4 @@
   </p>
 </div>
 
----
-
-<p align="center">
-  <a href="https://github.com/enrtorgil">
-    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/enrtorgil?style=for-the-badge&logo=github&color=181717">
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/enriquetorrellagil">
-    <img alt="LinkedIn" src="https://img.shields.io/static/v1?label=LinkedIn&message=enriquetorrellagil&style=for-the-badge&logo=linkedin&color=0077B5">
-  </a>&nbsp;&nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=enrtorgil&color=006bed" alt="Profile Views">
-</p>
+<div align="right">Made with 💚 by <a href="https://github.com/enrtorgil">@enrtorgil</a>.</div>
