@@ -4,20 +4,6 @@
   <img src="https://i.imgur.com/jtBGTEw.gif" alt="readme-banner-gif" style="width: 100%; height: auto;">
 </div>
 
----
-
-<p align="center">
-  <a href="https://github.com/enrtorgil">
-    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/enrtorgil?style=for-the-badge&logo=github&color=181717">
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/enriquetorrellagil">
-    <img alt="LinkedIn" src="https://img.shields.io/static/v1?label=LinkedIn&message=enriquetorrellagil&style=for-the-badge&logo=linkedin&color=0077B5">
-  </a>&nbsp;&nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=enrtorgil&color=006bed" alt="Profile Views">
-</p>
-
----
-
 ### ✨ I'm currently working on... [Project & Task Management](https://github.com/enrtorgil/taskflow)
 
 <table>
@@ -39,8 +25,6 @@
 </tr>
 </table>
 
----
-
 <details align="center">
   <summary></summary><br>
   <p align="center">
@@ -49,8 +33,6 @@
     </a>
   </p>
 </details>
-
----
 
 <div>
   <p align="center">
@@ -69,3 +51,13 @@
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">&nbsp;
   </p>
 </div>
+
+<p align="center">
+  <a href="https://github.com/enrtorgil">
+    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/enrtorgil?style=for-the-badge&logo=github&color=181717">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/enriquetorrellagil">
+    <img alt="LinkedIn" src="https://img.shields.io/static/v1?label=LinkedIn&message=enriquetorrellagil&style=for-the-badge&logo=linkedin&color=0077B5">
+  </a>&nbsp;&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=enrtorgil&color=006bed" alt="Profile Views">
+</p>
