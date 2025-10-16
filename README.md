@@ -52,4 +52,9 @@
   </p>
 </div>
 
-<div align="right">Made with 💚 by <a href="https://github.com/enrtorgil">@enrtorgil</a>.</div>
+<br><br>
+
+<div align="right">
+  <sub>Made with <span style="color:#70A5FD;">💙</span> by <a href="https://github.com/enrtorgil">@enrtorgil</a>.</sub>
+</div>
+
