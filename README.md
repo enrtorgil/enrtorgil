@@ -1,41 +1,56 @@
 ## 👋 Hello world! My name is [Enrique](https://github.com/enrtorgil)
 
-<p>
+<div align="center">
+  <img src="https://i.imgur.com/jtBGTEw.gif" alt="readme-banner-gif" style="width: 100%; height: auto;">
+</div>
+
+---
+
+<p align="center">
   <a href="https://github.com/enrtorgil">
     <img alt="GitHub Followers" src="https://img.shields.io/github/followers/enrtorgil?style=for-the-badge&logo=github&color=181717">
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/enriquetorrellagil">
     <img alt="LinkedIn" src="https://img.shields.io/static/v1?label=LinkedIn&message=enriquetorrellagil&style=for-the-badge&logo=linkedin&color=0077B5">
-</a>&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=enrtorgil&color=006bed" alt="Profile Views">
 </p>
 
-<div align="center">
-  <img src="https://i.imgur.com/jtBGTEw.gif" alt="readme-banner-gif" style="width: 100%; height: auto;">
-</div>
-
-<hr>
+---
 
 ### ✨ I'm currently working on... [Project & Task Management](https://github.com/enrtorgil/taskflow)
 
 <table>
 <tr>
-    <th>Past works 🔄</th>
-    <th>GitHub Stats 👁‍🗨</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/enrtorgil/pawFinder">
-        <img alt="PawFinder" src="https://github-readme-stats-bezhansalleh.vercel.app/api/pin/?username=enrtorgil&repo=pawFinder&cache_bust=1" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/enrtorgil"><img alt="Git Stats" src="http://github-readme-stats-bezhansalleh.vercel.app/api?username=enrtorgil&show_icons=true&count_private=true" height="150" /></a>
-    </td>
-  </tr>
+  <th>Past works 🔄</th>
+  <th>GitHub Stats 👁‍🗨</th>
+</tr>
+<tr>
+  <td>
+    <a href="https://github.com/enrtorgil/pawFinder">
+      <img alt="PawFinder" src="https://github-readme-stats-bezhansalleh.vercel.app/api/pin/?username=enrtorgil&repo=pawFinder&cache_bust=1" />
+    </a>
+  </td>
+  <td>
+    <a href="https://github.com/enrtorgil">
+      <img alt="Git Stats" src="http://github-readme-stats-bezhansalleh.vercel.app/api?username=enrtorgil&show_icons=true&count_private=true" height="150" />
+    </a>
+  </td>
+</tr>
 </table>
 
-<br>
+---
+
+<details align="center">
+  <summary></summary><br>
+  <p align="center">
+    <a href="https://github.com/enrtorgil">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enrtorgil&theme=tokyonight" alt="Profile Details"/>
+    </a>
+  </p>
+</details>
+
+---
 
 <div>
   <p align="center">
@@ -54,20 +69,3 @@
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">&nbsp;
   </p>
 </div>
-
-<details align="center">
-  <summary></summary><br>
-  <p align="center">
-    <a href="https://github.com/enrtorgil">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enrtorgil&theme=tokyonight" alt="Profile Details"/>
-    </a>
-  </p>
-</details>
-
-
-  <p align="center">
-    <a href="https://github.com/enrtorgil">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=enrtorgil&radius=16&theme=tokyo-night&area=true" alt="Activity Graph"/>
-    </a>
-  </p>
-</details>
