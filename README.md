@@ -6,7 +6,7 @@
 
 ### I'm currently working on... [adminLTE-erp](https://github.com/enrtorgil/adminLTE-erp) (🔒 PRIVATE)
 
-<table>
+<table align="center">
   <tr>
     <th>GitHub Stats</th>
     <th>Contribution Streak</th>
