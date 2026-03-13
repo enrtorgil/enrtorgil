@@ -4,7 +4,7 @@
   <img src="https://i.imgur.com/jtBGTEw.gif" alt="readme-banner-gif" style="width: 100%; height: auto;">
 </div>
 
-### I'm currently working on... [adminLTE-erp](https://github.com/enrtorgil/adminLTE-erp) (🔒 PRIVATE)
+### I'm currently working on... [adminLTE-erp](https://github.com/enrtorgil/adminLTE-erp) (🔒 private repo)
 
 <table align="center">
   <tr>
@@ -12,13 +12,11 @@
     <th>Contribution Streak</th>
   </tr>
   <tr>
-    <td>
-      <a href="https://github.com/enrtorgil">
-        <img alt="Git Stats" src="https://github-readme-stats-bezhansalleh.vercel.app/api?username=enrtorgil&show_icons=true&count_private=true" height="150" />
-      </a>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=enrtorgil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
     </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=enrtorgil&theme=tokyonight&hide_border=true" height="150"/>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=enrtorgil&theme=tokyonight&hide_border=true" height="160"/>
     </td>
   </tr>
 </table>
