@@ -1,10 +1,14 @@
-## 👋 Hello world! My name is [Enrique](https://github.com/enrtorgil)
+<h2>
+  👋 Hello world! My name is 
+  <a href="https://github.com/enrtorgil">Enrique</a>
+  <img src="https://komarev.com/ghpvc/?username=enrtorgil&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" align="right">
+</h2>
 
 <div align="center">
   <img src="https://i.imgur.com/jtBGTEw.gif" alt="readme-banner-gif" style="width: 100%; height: auto;">
 </div>
 
-### I'm currently working on... [adminLTE-erp](https://github.com/enrtorgil/adminLTE-erp) (🔒 private repo)
+### I'm currently working on... [adminLTE-erp](https://github.com/enrtorgil/adminLTE-erp) (private 🔒)
 
 <table align="center">
   <tr>
@@ -48,9 +52,7 @@
   </p>
 </div>
 
-<br>
-
-<div align="right">
-  Made with <span style="color:#70A5FD;">💙</span> by <a href="https://github.com/enrtorgil">@enrtorgil</a>
-</div>
-
+<p align="right">
+  Made with <span style="color:#70A5FD;">💙</span> by 
+  <a href="https://github.com/enrtorgil">@enrtorgil</a>
+</p>
