@@ -4,42 +4,23 @@
   <img src="https://i.imgur.com/jtBGTEw.gif" alt="readme-banner-gif" style="width: 100%; height: auto;">
 </div>
 
-### I'm currently working on... [adminLTE-erp](https://github.com/enrtorgil/adminLTE-erp) (🔒 private repo)
+### I'm currently working on... [adminLTE-erp](https://github.com/enrtorgil/adminLTE-erp) (🔒 PRIVATE)
 
 <table>
-<tr>
-  <th>Past works 🔄</th>
-  <th>GitHub Stats 👁‍🗨</th>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-<b>AdminLTE ERP 🔒</b>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Laravel-ERP-F55247?style=for-the-badge&logo=laravel&logoColor=white">
-
-<br><br>
-
-Full ERP built with Laravel including:
-
-sales, accounting, manufacturing, HR  
-project management and reporting.
-
-<br><br>
-
-<a href="https://github.com/enrtorgil/adminLTE-erp">
-  View repository
-</a>
-
-</td>
-  <td>
-    <a href="https://github.com/enrtorgil">
-      <img alt="Git Stats" src="http://github-readme-stats-bezhansalleh.vercel.app/api?username=enrtorgil&show_icons=true&count_private=true" height="150" />
-    </a>
-  </td>
-</tr>
+  <tr>
+    <th>GitHub Stats</th>
+    <th>Contribution Streak</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/enrtorgil">
+        <img alt="Git Stats" src="https://github-readme-stats-bezhansalleh.vercel.app/api?username=enrtorgil&show_icons=true&count_private=true" height="150" />
+      </a>
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=enrtorgil&theme=tokyonight&hide_border=true" height="150"/>
+    </td>
+  </tr>
 </table>
 
 <details align="center">
