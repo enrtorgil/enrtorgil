@@ -4,7 +4,7 @@
   <img src="https://i.imgur.com/jtBGTEw.gif" alt="readme-banner-gif" style="width: 100%; height: auto;">
 </div>
 
-### I'm currently working on... [Project & Task Management](https://github.com/enrtorgil/taskflow)
+### I'm currently working on... [adminLTE-erp](https://github.com/enrtorgil/adminLTE-erp) (🔒 private repo)
 
 <table>
 <tr>
@@ -12,16 +12,28 @@
   <th>GitHub Stats 👁‍🗨</th>
 </tr>
 <tr>
-  <td>
-    <a href="https://github.com/enrtorgil/adminLTE-erp">
-      <img src="https://img.shields.io/badge/MVLC%20ERP-Laravel%20ERP-blue?style=for-the-badge&logo=laravel">
-    </a>
-    <br><br>
-    <b>AdminLTE ERP</b><br>
-    Full ERP built with Laravel including:<br>
-    sales, accounting, manufacturing, HR,<br>
-    project management and reporting.
-  </td>
+<td align="center" width="50%">
+
+<b>AdminLTE ERP 🔒</b>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Laravel-ERP-F55247?style=for-the-badge&logo=laravel&logoColor=white">
+
+<br><br>
+
+Full ERP built with Laravel including:
+
+sales, accounting, manufacturing, HR  
+project management and reporting.
+
+<br><br>
+
+<a href="https://github.com/enrtorgil/adminLTE-erp">
+  View repository
+</a>
+
+</td>
   <td>
     <a href="https://github.com/enrtorgil">
       <img alt="Git Stats" src="http://github-readme-stats-bezhansalleh.vercel.app/api?username=enrtorgil&show_icons=true&count_private=true" height="150" />
