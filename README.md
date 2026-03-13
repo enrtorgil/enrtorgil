@@ -1,7 +1,7 @@
 <h2>
   👋 Hello world! My name is 
   <a href="https://github.com/enrtorgil">Enrique</a>
-  <img src="https://komarev.com/ghpvc/?username=enrtorgil&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" align="right">
+  <img src="https://komarev.com/ghpvc/?username=enrtorgil&style=for-the-badge&color=4e6fa9&label=PROFILE+VIEWS" align="right">
 </h2>
 
 <div align="center">
