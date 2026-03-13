@@ -4,7 +4,7 @@
   <img src="https://i.imgur.com/jtBGTEw.gif" alt="readme-banner-gif" style="width: 100%; height: auto;">
 </div>
 
-### ✨ I'm currently working on... [Project & Task Management](https://github.com/enrtorgil/taskflow)
+### I'm currently working on... [Project & Task Management](https://github.com/enrtorgil/taskflow)
 
 <table>
 <tr>
@@ -13,9 +13,14 @@
 </tr>
 <tr>
   <td>
-    <a href="https://github.com/enrtorgil/pawFinder">
-      <img alt="PawFinder" src="https://github-readme-stats-bezhansalleh.vercel.app/api/pin/?username=enrtorgil&repo=pawFinder&cache_bust=1" />
+    <a href="https://github.com/enrtorgil/adminLTE-erp">
+      <img src="https://img.shields.io/badge/MVLC%20ERP-Laravel%20ERP-blue?style=for-the-badge&logo=laravel">
     </a>
+    <br><br>
+    <b>AdminLTE ERP</b><br>
+    Full ERP built with Laravel including:<br>
+    sales, accounting, manufacturing, HR,<br>
+    project management and reporting.
   </td>
   <td>
     <a href="https://github.com/enrtorgil">
