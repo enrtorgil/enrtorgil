@@ -26,11 +26,12 @@
 </table>
 
 <details align="center">
-  <summary></summary><br>
+  <summary style="cursor: pointer; font-size: 20px;"></summary><br>
   <p align="center">
-    <a href="https://github.com/enrtorgil">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enrtorgil&theme=tokyonight" alt="Profile Details"/>
-    </a>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enrtorgil&theme=tokyonight" alt="Profile Details"/>
+  </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enrtorgil&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
   </p>
 </details>
 
