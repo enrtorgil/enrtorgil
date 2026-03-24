@@ -1,12 +1,19 @@
 <h2>
   👋 Hello world! My name is 
   <a href="https://github.com/enrtorgil">Enrique</a>
-  </a><img src="https://komarev.com/ghpvc/?username=enrtorgil&style=for-the-badge&color=4e6fa9&label=PROFILE+VIEWS" align="right">
-  </a><a href="https://github.com/enrtorgil?tab=repositories&sort=stargazers" target="_blank">
-    <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/enrtorgil?style=for-the-badge&label=Stars&color=bf616a&logo=github" align="right" />
-  <a href="https://github.com/enrtorgil?tab=followers" target="_blank">
-    <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/enrtorgil?style=for-the-badge&label=Followers&color=5e81ac&logo=github" align="right" />
 </h2>
+
+<p align="center">
+  <a href="https://github.com/enrtorgil?tab=followers" target="_blank">
+    <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/enrtorgil?style=for-the-badge&label=Followers&color=5e81ac&logo=github" />
+  </a>
+  <a href="https://github.com/enrtorgil?tab=repositories&sort=stargazers" target="_blank">
+    <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/enrtorgil?style=for-the-badge&label=Stars&color=bf616a&logo=github" />
+  </a>
+  <a href="https://github.com/enrtorgil">
+    <img src="https://komarev.com/ghpvc/?username=enrtorgil&style=for-the-badge&color=4e6fa9&label=PROFILE+VIEWS" alt="Profile views" />
+  </a>
+</p>
 
 <div align="center">
   <img src="https://i.imgur.com/jtBGTEw.gif" alt="readme-banner-gif" style="width: 100%; height: auto;">
