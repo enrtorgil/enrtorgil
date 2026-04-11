@@ -12,8 +12,8 @@
 
 <table align="center">
   <tr>
-    <th>GitHub Stats</th>
     <th>Contribution Streak</th>
+    <th>Coding Activity</th>
   </tr>
   <tr>
     <td align="center">
