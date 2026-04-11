@@ -8,7 +8,7 @@
   <img src="https://i.imgur.com/jtBGTEw.gif" alt="readme-banner-gif" style="width: 100%; height: auto;">
 </div>
 
-### I'm currently working on... [adminLTE-erp](https://github.com/enrtorgil/adminLTE-erp "Private repository 🔒") & [kanban-board](https://github.com/enrtorgil/kanban-board "Open-source Kanban project built with Laravel")
+### I'm currently working on... [adminLTE-erp](https://github.com/enrtorgil/adminLTE-erp "Private repository 🔒") & [ikariam-island-tracker](https://github.com/enrtorgil/ikariam-island-tracker "Open-source Ikariam tracker built with Laravel")
 
 <table align="center">
   <tr>
@@ -17,10 +17,10 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=enrtorgil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+      <img src="https://streak-stats.demolab.com?user=enrtorgil&theme=tokyonight&hide_border=true" height="160"/>
     </td>
     <td align="center">
-      <img src="https://streak-stats.demolab.com?user=enrtorgil&theme=tokyonight&hide_border=true" height="160"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=enrtorgil&theme=tokyonight&utcOffset=1" height="160"/>
     </td>
   </tr>
 </table>
@@ -29,10 +29,6 @@
   <summary style="cursor: pointer; font-size: 20px;"></summary><br>
   <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enrtorgil&theme=tokyonight" alt="Profile Details"/>
-  </p>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enrtorgil&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=enrtorgil&theme=tokyonight&utcOffset=1" height="160"/>
   </p>
 </details>
 
