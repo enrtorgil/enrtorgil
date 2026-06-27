@@ -8,7 +8,7 @@
   <img src="https://i.imgur.com/jtBGTEw.gif" alt="readme-banner-gif" style="width: 100%; height: auto;">
 </div>
 
-### I'm currently working on...  [adminLTE-erp](https://github.com/enrtorgil/adminLTE-erp "Private repository 🔒") & [ikariam-island-tracker](https://github.com/enrtorgil/ikariam-tracker "Ikariam tracker built with Laravel")
+### I'm currently working on...  [adminLTE-erp](https://github.com/enrtorgil/adminLTE-erp "Private repository 🔒") & [ikariam-tracker](https://github.com/enrtorgil/ikariam-tracker "Ikariam tracker built with Laravel")
 
 <table align="center">
   <tr>
